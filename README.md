@@ -1,6 +1,8 @@
 # EV-Market-Intelligence
 Electric Vehicle Insights Project: SQL-powered data analysis and Power BI dashboard revealing trends in EV range, pricing, and eligibility.
 
+PPT: https://github.com/06-10-2004/EV-Market-Intelligence/blob/main/EV-MARKET-INTELLIGENCE%20PPT%20(3).pptx
+
 # 🚗 Electric Vehicle Product Analysis Using SQL and Power BI
 
 This project explores electric vehicle (EV) product-level data using SQL for deep data analysis and Power BI for interactive visualization. The goal is to uncover key insights about EV pricing, range, battery capacity, speed, and eligibility for government incentives.

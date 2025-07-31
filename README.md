@@ -75,8 +75,10 @@ The dataset contains publicly available product-level EV data.
 
 This project improved my ability to work with real-world datasets, perform complex SQL queries, and create compelling visual narratives with Power BI. I gained insights into data-driven product analysis and how government policies affect product adoption in the EV market.
 
----
+## Conclusion
 
-## 📁 File Structure
+This electric vehicle product analysis provided valuable insights into the specifications, pricing trends, and performance of EVs using SQL and Power BI. By exploring key factors such as battery capacity, range, charging time, and eligibility for incentives, we identified patterns that influence market value and consumer preferences. The project enhanced my ability to work with real-world data, apply analytical SQL queries, and effectively communicate insights through visualizations. Overall, this analysis demonstrates the power of data in guiding product decisions and understanding the evolving electric vehicle landscape.
+
+
 
 

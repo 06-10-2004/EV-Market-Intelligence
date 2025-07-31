@@ -2,6 +2,7 @@
 Electric Vehicle Insights Project: SQL-powered data analysis and Power BI dashboard revealing trends in EV range, pricing, and eligibility.
 
 🧱 1. Background and Overview
+
 As a Data Analyst, my objective for this project was to explore and analyze electric vehicle (EV) data using SQL and Power BI to uncover actionable product insights. With the rise in EV adoption, understanding how pricing, range, eligibility, and other product features vary by brand, model, and vehicle type is crucial for business stakeholders such as product strategists, marketing teams, and supply chain planners.
 
 The project focuses on answering key business questions:
@@ -15,6 +16,7 @@ What trends exist in product performance across manufacturers?
 How can companies optimize their EV offerings based on data?
 
 📊 2. Data Structure Overview
+
 The dataset consists of publicly available product-level EV data. Here’s a high-level view of the data schema:
 
 Column Name	Data Type	Description
@@ -29,6 +31,7 @@ Vehicle_Type	Text	Type of EV (Sedan, Hatchback, SUV, etc.)
 Eligible_For_Incentive	Boolean	Indicates government eligibility
 
 🔧 Data Cleaning & Transformations
+
 Cleaned inconsistent model names and manufacturer values.
 
 Converted data types for numerical and boolean analysis.
@@ -38,6 +41,7 @@ Created derived columns in Power BI (e.g., Price per KM range).
 Used SQL queries with CTEs, Window Functions, and Aggregation to prepare summarized tables.
 
 📈 3. Executive Summary (Key Findings)
+
 ✅ Tata Motors leads the EV market with the highest number of models offered.
 
 📈 Average vehicle range is ~270 KM, while some premium models exceed 500 KM.
@@ -51,6 +55,7 @@ Used SQL queries with CTEs, Window Functions, and Aggregation to prepare summari
 🔌 Battery capacity and price show a strong positive correlation, helping identify overpriced or underperforming models.
 
 🔍 4. Insights Deep Dive
+
 Insight 1: Tata’s Market Dominance
 📊 Metric: Product Variety
 
@@ -87,6 +92,7 @@ Insight 5: Optimal Vehicle Type
 🧠 Story: Hatchbacks outperform other vehicle types in terms of cost-efficiency, ideal for urban and price-sensitive segments.
 
 📢 5. Recommendations
+
 💡 Marketing Focus: Highlight fast-charging and incentive-eligible features in ad campaigns.
 
 🚀 Product Strategy: Expand affordable EV variants like hatchbacks with optimized range and battery balance.
@@ -96,6 +102,7 @@ Insight 5: Optimal Vehicle Type
 📊 Business Intelligence: Track performance using a dynamic Power BI dashboard for future product launch planning.
 
 ⚠️ 6. Caveats and Assumptions
+
 ⚠️ No historical time-series data – insights are from a single snapshot in time.
 
 ⚠️ Pricing assumed as ex-showroom, not inclusive of state-wise taxes or subsidies.

@@ -60,7 +60,6 @@ The dataset contains publicly available product-level EV data.
 ## 💡 Skills Demonstrated
 
 - SQL aggregations, filtering, sorting, and **window functions**
-- Joining multiple tables and subqueries for in-depth analysis
 - Data storytelling using interactive Power BI dashboards
 - Understanding EV specifications and market dynamics
 

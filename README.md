@@ -64,16 +64,11 @@ The dataset contains publicly available product-level EV data.
 
 ---
 
-## 📸 Sample Dashboard
-
-![EV Dashboard](path-to-your-image.png)  
-*Note: Replace the image path with your actual screenshot.*
-
----
-
 ## 🧠 What I Learned
 
 This project improved my ability to work with real-world datasets, perform complex SQL queries, and create compelling visual narratives with Power BI. I gained insights into data-driven product analysis and how government policies affect product adoption in the EV market.
+
+---
 
 ## Conclusion
 
